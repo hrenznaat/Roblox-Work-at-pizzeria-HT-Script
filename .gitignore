@@ -1,14 +1,5 @@
-----This is a new script for the Work at pizzeria mode In roblox, in this script, you can perform actions such as:
-teleport to any job, Get a manager when you need and at any time,
-Auto farm for any job.
-I'm still learning how to create scripts for roblox and this is my first one, but this script is the only one with such a variety
-functions for this mode.-----
-
-
-
-
-----------------------------------------by hrenznaat-----------------------------------------------------
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
+------------------------------------by hrenznaat-----------------------------------------------------
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/hrenznaat/Roblox-Work-at-pizzeria-HT-Script/main/Gui"))()
 
  local Window = Library.CreateLib("Manager                    By hrenznaat", "RJTheme3")
  
@@ -1048,7 +1039,7 @@ TextLabel.BackgroundColor3 = Color3.fromRGB(98, 77, 128)
 TextLabel.BorderSizePixel = 0 
 TextLabel.Size = UDim2.new(0, 146, 0, 28)
 TextLabel.Font = Enum.Font.SciFi
-TextLabel.Text = "By hrenznaat"
+TextLabel.Text = "Misc"
 TextLabel.TextColor3 = Color3.fromRGB(255,255,255)
 TextLabel.TextSize = 17.000
 TextLabel.TextWrapped = true
